@@ -8,6 +8,9 @@ es (58 sloc)  946 Bytes
 *.lo
 *.o
 *.obj
+*.log
+*.ini
+*.bin
 
 # Precompiled Headers
 *.gch
